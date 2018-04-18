@@ -13,4 +13,4 @@ This README would normally document whatever steps are necessary to get your app
 
 * docker build --rm=false -t lisandropaolini/mtp-productos-service .
 
-* docker run -p 8088:8080 -t lisandropaolini/mtp-productos-service
+* docker run -p 8088:8080 -t lisandropaolini/mtp-productos-service# mt-login-service
